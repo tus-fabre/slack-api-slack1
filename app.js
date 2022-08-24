@@ -4,7 +4,7 @@
  * [FILE] app.js
  *
  * [DESCRIPTION]
- *  Lesson 2a - メッセージリスナーを定義する
+ *  Lesson Slack 1 - メッセージリスナーを定義する
  * 
  * [NOTE]
  */
