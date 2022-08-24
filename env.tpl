@@ -2,9 +2,9 @@
 # Slackアプリに用いる環境変数
 #
 # ユーザートークン　（環境に合わせて変更する）
-SLACK_BOT_TOKEN=xoxb-3659260484820-3659480602868-veOvCUlBXQ4RaBNOCXLULypU
+SLACK_BOT_TOKEN=xoxb-***
 # アプリトークン　（環境に合わせて変更する）
-SLACK_APP_TOKEN=xapp-1-A03JWAVJQCF-3976552210498-74d38b66b9c68206a1b9f96b7d0333569a2c22a803790b18a3fcc5df3b014e9a
+SLACK_APP_TOKEN=xapp-***
 # ベースURL　（変更不可）
 BASE_URL=https://disease.sh/v3/covid-19/
 # 選択メニューの項目数
